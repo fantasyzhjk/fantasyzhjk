@@ -20,4 +20,4 @@
 - 喜欢玩Minecraft，osu！等游戏w
 - 目前在 [Miaoscraft](https://miaoscraft.cn/) 担任管理
 
-#### 就这么多了喵，咱里大佬喵还很远喵！
+#### 就这么多了喵，咱离大佬喵还很远喵！
