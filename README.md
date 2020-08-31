@@ -1,6 +1,6 @@
 ### 喵喵喵~
 
-![fantasyzhjk's github stats](https://github-readme-stats.vercel.app/api?username=fantasyzhjk&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![fantasyzhjk's github stats](https://github-readme-stats.vercel.app/api?username=fantasyzhjk&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantasyzhjk&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 #### 咱干的↑ 咱会的↓
