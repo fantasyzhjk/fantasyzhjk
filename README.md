@@ -1,8 +1,8 @@
 ### 喵喵喵~
 
-![fantasyzhjk's github stats](https://github-readme-stats.vercel.app/api?username=fantasyzhjk&show_icons=true&title_color=FF1493&icon_color=FF00FF&text_color=FF69B4&count_private=true&bg_color=0,ADD8E6,FFC0CB,FFF,FFC0CB,ADD8E6&include_all_commits=true)
+![fantasyzhjk's github stats](https://github-readme-stats.vercel.app/api?username=fantasyzhjk&show_icons=true&include_all_commits=true)
 
-#### 咱会的↓
+#### 咱干的↑ 咱会的↓
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&labelColor=CC342D&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
