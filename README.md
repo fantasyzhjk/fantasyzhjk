@@ -1,10 +1,10 @@
 ### 喵喵喵~
 
-![fantasyzhjk's github stats](https://github-readme-stats.vercel.app/api?username=fantasyzhjk&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![fantasyzhjk's github stats](https://github-readme-stats.vercel.app/api?username=fantasyzhjk&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97)
 
 #### 咱干的↑ 咱会的↓
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantasyzhjk&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantasyzhjk&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=batchfile)
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&labelColor=CC342D&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
