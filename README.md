@@ -13,10 +13,11 @@
 
 ----
 
-#### 你好，这里是来自异次元(?)的猫娘Programmer，喵呜~
+#### 你好，这里是来自异次元(?)的猫娘Programmer，喵呜ww
 
+- [fcc](https://github.com/Amazefcc233)是我老婆喵！
 - 闲下来会写写一些小机器人
 - 喜欢玩Minecraft，osu！等游戏w
 - 目前在 [Miaoscraft](https://miaoscraft.cn/) 担任管理
 
-#### 就这么多了喵，咱还很菜喵！
+#### 就这么多了喵，咱里大佬喵还很远喵！
