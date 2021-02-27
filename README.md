@@ -18,7 +18,7 @@
 
 #### 你好，这里是来自（？）的Programmer，喵呜ww
 
-- [fcc](https://github.com/Amazefcc233)是我老婆！
+- [fcc](https://github.com/Amazefcc233) 是我老婆！
 - 闲下来会写写一些小机器人
 - 喜欢玩Minecraft，osu！等游戏w
 - 目前在 [Miaoscraft](https://miaoscraft.cn/) 担任管理
