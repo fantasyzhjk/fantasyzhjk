@@ -12,7 +12,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-888?style=flat-square)
 
-[“每个猫娘上辈子都是折翼的天使”](https://fantasyzhjk.top)
+[“每个猫娘上辈子都是折翼的天使”](https://鸽子.xyz)
 
 ----
 
