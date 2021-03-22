@@ -5,7 +5,7 @@
 #### 咱干的↑ 咱会的↓
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantasyzhjk&count_private=false&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantasyzhjk&count_private=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&labelColor=CC342D&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&labelColor=blue&logoColor=fff)
