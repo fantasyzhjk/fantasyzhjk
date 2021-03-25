@@ -23,4 +23,4 @@
 - 喜欢玩Minecraft，osu！等游戏w
 - 目前在 [Miaoscraft](https://miaoscraft.cn/) 担任管理
 
-#### 就这么多了（哭），果然我离大佬还很远的！
+#### 就这么多了（哭），果然我离大佬还是很远的！
