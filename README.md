@@ -2,7 +2,7 @@
 
 ![fantasyzhjk's github stats](https://readmestats-0ojixueseno0.vercel.app/api?username=fantasyzhjk&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
-#### 咱干的↑ 咱会的↓
+#### 干的↑ 会的↓
 
 
 ![Top Langs](https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=fantasyzhjk&hide=html,scss,php&count_private=true&langs_count=6&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
@@ -23,5 +23,3 @@
 - 闲下来会写写一些小机器人
 - 喜欢玩Minecraft，osu！等游戏w
 - 目前在 [Miaoscraft](https://miaoscraft.cn/) 担任管理
-
-#### 就这么多了（哭），果然我离大佬还是很远的！
