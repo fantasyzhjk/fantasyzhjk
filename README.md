@@ -1,6 +1,6 @@
 <a href="https://xn--i8s707m.xyz">
     <h3 align="center">
-        <img src="https://raw.githubusercontent.com/fantasyzhjk/onebot-ruby/main/icon.png" width="280"><br>
+        <img src="https://raw.githubusercontent.com/fantasyzhjk/fantasyzhjk/master/icon.webp" width="280"><br>
         你好，这里是水瓶 ;w;
     </h3>
 </a>
