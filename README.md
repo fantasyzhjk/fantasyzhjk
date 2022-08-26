@@ -6,7 +6,7 @@
 </a>
 
 <div align="center">
-    <a href"https://github.com/fantasyzhjk?tab=followers">
+    <a href="https://github.com/fantasyzhjk?tab=followers">
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/fantasyzhjk?colorB=c9cbff&logo=Github&style=for-the-badge" />
     </a>
