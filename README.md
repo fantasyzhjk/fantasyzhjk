@@ -8,10 +8,10 @@
 ![Top Langs](https://readmestats-0ojixueseno0.vercel.app/api/top-langs/?username=fantasyzhjk&hide=html,scss,php&count_private=true&langs_count=6&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&labelColor=CC342D&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&labelColor=blue&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
 ![Rust](https://img.shields.io/badge/-Rust-88471d?style=flat-square&logo=Rust&labelColor=88471d&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-888?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&labelColor=blue&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&labelColor=00ADD8&logoColor=fff)
 
 [“每个猫娘上辈子都是折翼的天使”](https://xn--i8s707m.xyz/)
 
