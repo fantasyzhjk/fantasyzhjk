@@ -14,7 +14,7 @@
         <img alt="Twitter Follow" 
              src="https://img.shields.io/twitter/follow/fantasyzhjk?colorB=c6aae8&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
-    <a href="https://github.com/fantasyzhjk">
+    <a href="https://xn--i8s707m.xyz">
         <img alt="Visitor" 
              src="https://visitor_badge.deta.dev/?pageID=fantasyzhjk.fantasyzhjk?labelColor=1e1e28&color=c9cbff&label=Visitors&style=for-the-badge">
     </a>
