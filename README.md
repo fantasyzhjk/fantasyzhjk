@@ -1,4 +1,4 @@
-<a href="https://discord.gg/5dZPVytKnn">
+<a href="https://github.com/fantasyzhjk">
     <h3 align="center">
         <img src="https://raw.githubusercontent.com/fantasyzhjk/onebot-ruby/main/icon.png" width="280"><br>
         你好，这里是水瓶 ;w;
