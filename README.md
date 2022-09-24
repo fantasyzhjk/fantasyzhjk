@@ -22,7 +22,7 @@
 
 <br>
 
-```Rust
+```rust
 use moe::meow;
 
 fn main() {
