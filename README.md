@@ -33,14 +33,15 @@ fn main() {
 }
 ``` 
 
-<h4 align="center">
+<div align="center">
 <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&labelColor=CC342D&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Rust-88471d?logo=Rust&labelColor=88471d&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/-C++-888?logo=cplusplus&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-blue?logo=Python&labelColor=blue&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&labelColor=00ADD8&logoColor=fff&style=for-the-badge">
+</div>
 <br><br>
-<p align="center">
+<div align="center">
   <a href="https://github.com/fantasyzhjk">
     <img align="center"
          height="150em"
@@ -63,4 +64,4 @@ fn main() {
          height="150em"
          src="https://activity-graph.herokuapp.com/graph?username=fantasyzhjk&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
   </a>
-</p>
+</div>
