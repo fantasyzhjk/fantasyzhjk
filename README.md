@@ -62,6 +62,6 @@ fn main() {
     <a href="https://github.com/fantasyzhjk">
     <img align="center"
          height="150em"
-         src="https://activity-graph.herokuapp.com/graph?username=fantasyzhjk&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+         src="https://github-readme-activity-graph.cyclic.app/graph?username=fantasyzhjk&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
   </a>
 </div>
