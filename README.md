@@ -27,7 +27,7 @@ use moe::meow;
 
 fn main() {
     let info = "每个猫娘上辈子都是折翼的天使。"；
-    let langs = vec!["Ruby", "Rust", "C++", "Python", "Go"];
+    let langs = vec!["Ruby", "Rust", "C#", "Python", "Go"];
 
     println!("fcc是我老婆!");
 }
@@ -36,7 +36,7 @@ fn main() {
 <div align="center">
 <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&labelColor=CC342D&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Rust-88471d?logo=Rust&labelColor=88471d&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/-C++-888?logo=cplusplus&style=for-the-badge">
+<img src="https://img.shields.io/badge/-CSharp-888?logo=csharp&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-blue?logo=Python&labelColor=blue&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&labelColor=00ADD8&logoColor=fff&style=for-the-badge">
 </div>
