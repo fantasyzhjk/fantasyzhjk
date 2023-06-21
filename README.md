@@ -59,9 +59,4 @@ fn main() {
          src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasyzhjk&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=html,scss,php"
     />
   </a>
-    <a href="https://github.com/fantasyzhjk">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-activity-graph.cyclic.app/graph?username=fantasyzhjk&custom_title=My%20Activity%20Graph&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
-  </a>
 </div>
