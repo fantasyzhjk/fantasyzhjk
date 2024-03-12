@@ -28,8 +28,6 @@ use moe::meow;
 fn main() {
     let info = "每个猫娘上辈子都是折翼的天使。"；
     let langs = vec!["Ruby", "Rust", "C#", "Python", "Go"];
-
-    println!("fcc是我老婆!");
 }
 ``` 
 
