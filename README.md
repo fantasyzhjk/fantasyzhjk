@@ -1,6 +1,6 @@
 <a href="https://github.com/fantasyzhjk/">
     <h3 align="center">
-        <img src="https://images.weserv.nl/?url=a.ppy.sh/9037287&h=280&w=280&fit=cover&mask=circle&maxage=7d" width="280"><br>
+        <img src="https://images.weserv.nl/?url=a.ppy.sh/9037287&h=300&w=280&fit=cover&mask=circle&maxage=7d" width="280"><br>
         你好，这里是水瓶 ;w;
     </h3>
 </a>
@@ -12,7 +12,7 @@
     </a>
     <a href="https://twitter.com/fantasyzhjk">
         <img alt="Twitter" 
-             src="https://img.shields.io/badge/Twitter-c6aae8?style=for-the-badge&logo=twitter&logoColor=1e1e28">
+             src="https://img.shields.io/badge/Twitter-c6aae8?style=for-the-badge&logo=X&logoColor=1e1e28">
     </a>
     <a href="https://github.com/fantasyzhjk?tab=followers">
         <img alt="GitHub" 
