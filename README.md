@@ -1,12 +1,12 @@
-<a href="https://xn--i8s707m.xyz">
+<a href="https://github.com/fantasyzhjk/">
     <h3 align="center">
-        <img src="https://a.ppy.sh/9037287?1603521014.jpeg" width="280"><br>
+        <img src="https://images.weserv.nl/?url=a.ppy.sh/9037287?1603521014.jpeg&h=280&w=280&fit=cover&mask=circle&maxage=7d" width="280"><br>
         你好，这里是水瓶 ;w;
     </h3>
 </a>
 
 <div align="center">
-    <a href="https://xn--i8s707m.xyz">
+    <a href="https://github.com/fantasyzhjk/">
         <img alt="Website" 
              src="https://img.shields.io/badge/website-c9cbff?style=for-the-badge&logo=About.me&logoColor=1e1e28">
     </a>
@@ -56,4 +56,5 @@ fn main() {
          height="150em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=fantasyzhjk&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
   </a>
+
 </div>
