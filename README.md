@@ -1,6 +1,6 @@
 <a href="https://github.com/fantasyzhjk/">
     <h3 align="center">
-        <img src="https://images.weserv.nl/?url=a.ppy.sh/9037287?1603521014.jpeg&h=280&w=280&fit=cover&mask=circle&maxage=7d" width="280"><br>
+        <img src="https://images.weserv.nl/?url=a.ppy.sh/9037287&h=280&w=280&fit=cover&mask=circle&maxage=7d" width="280"><br>
         你好，这里是水瓶 ;w;
     </h3>
 </a>
