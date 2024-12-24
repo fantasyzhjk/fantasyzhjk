@@ -34,7 +34,7 @@ fn main() {
 <div align="center">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <img src="https://img.shields.io/badge/-Rust-88471d?logo=Rust&labelColor=88471d&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/-CSharp-888?logo=csharp&style=for-the-badge">
+<img src="https://custom-icon-badges.demolab.com/badge/CSHARP-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-blue?logo=Python&labelColor=blue&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&labelColor=00ADD8&logoColor=fff&style=for-the-badge">
 </div>
