@@ -27,7 +27,7 @@ use moe::meow;
 
 fn main() {
     let info = "每个猫娘上辈子都是折翼的天使。"；
-    let langs = vec!["Ruby", "Rust", "C#", "Python", "Go"];
+    let langs = vec!["Ruby", "Rust", "C#", "Python", "Vue"];
 }
 ``` 
 
@@ -36,7 +36,7 @@ fn main() {
 <img src="https://img.shields.io/badge/-Rust-88471d?logo=Rust&labelColor=88471d&logoColor=fff&style=for-the-badge">
 <img src="https://custom-icon-badges.demolab.com/badge/CSHARP-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python-blue?logo=Python&labelColor=blue&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&labelColor=00ADD8&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge">
 </div>
 <br><br>
 <div align="center">
