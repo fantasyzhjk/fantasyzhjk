@@ -33,9 +33,9 @@ fn main() {
 
 <div align="center">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-<img src="https://img.shields.io/badge/-Rust-88471d?logo=Rust&labelColor=88471d&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/Rust-88471d?logo=Rust&labelColor=88471d&logoColor=fff&style=for-the-badge">
 <img src="https://custom-icon-badges.demolab.com/badge/CSHARP-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Python-blue?logo=Python&labelColor=blue&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-blue?logo=Python&labelColor=blue&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge">
 </div>
 <br><br>
