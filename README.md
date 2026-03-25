@@ -5,20 +5,6 @@
     </h3>
 </a>
 
-<div align="center">
-    <a href="https://github.com/fantasyzhjk/">
-        <img alt="Website" 
-             src="https://img.shields.io/badge/website-c9cbff?style=for-the-badge&logo=About.me&logoColor=1e1e28">
-    </a>
-    <a href="https://twitter.com/fantasyzhjk">
-        <img alt="Twitter" 
-             src="https://img.shields.io/badge/Twitter-c6aae8?style=for-the-badge&logo=X&logoColor=1e1e28">
-    </a>
-    <a href="https://github.com/fantasyzhjk?tab=followers">
-        <img alt="GitHub" 
-             src="https://img.shields.io/badge/GitHub-c9cbff?style=for-the-badge&logo=github&logoColor=1e1e28" />
-    </a>
-</div>
 
 <br>
 
