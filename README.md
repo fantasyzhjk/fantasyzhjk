@@ -1,7 +1,7 @@
 <a href="https://github.com/fantasyzhjk/">
     <h3 align="center">
         <img src="https://images.weserv.nl/?url=a.ppy.sh/9037287&h=300&w=280&fit=cover&mask=circle&maxage=7d" width="280"><br>
-        你好，这里是水瓶 ;w;
+        你好，这里是水瓶！
     </h3>
 </a>
 
