@@ -34,7 +34,7 @@ fn main() {
   <a href="https://github.com/fantasyzhjk">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasyzhjk&show_icons=true&include_all_commits=true&count_private=false&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=html,scss,php"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasyzhjk&show_icons=true&include_all_commits=true&count_private=false&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=html"
     />
   </a>
   <a href="https://github.com/fantasyzhjk">
